@@ -1,0 +1,11 @@
+h1,h3{
+    background-color: rgb(99, 255, 60);
+}
+h2{
+    background-color: rgb(0, 0, 221);
+    text-indent: 500px;
+}
+#heading1{
+    text-shadow: 10px;
+    text-align: center;
+}
